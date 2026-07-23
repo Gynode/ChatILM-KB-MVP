@@ -1,0 +1,26 @@
+# Ignore Virtual Environments
+venv/
+.env
+
+# Ignore Mock Cloud Data (LocalStack/GCP)
+.localstack/
+data/
+
+# Ignore Large Model Weights
+models/BAAI/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Ignore large database files
+staging_vault.db
+staging_vault_backup_*.db
+
+# Ignore SQLite databases in data directories
+KB Stages/*.db
+Old KB/*.db
+
+# Windows system files
+Thumbs.db
+Desktop.ini
