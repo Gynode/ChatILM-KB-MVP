@@ -1,6 +1,9 @@
 # Ignore Virtual Environments
 venv/
+
+# Ignore secrets
 .env
+.jwt_secret
 
 # Ignore Mock Cloud Data (LocalStack/GCP)
 .localstack/
