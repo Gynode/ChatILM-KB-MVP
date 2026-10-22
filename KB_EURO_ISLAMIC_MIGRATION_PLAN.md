@@ -1,6 +1,7 @@
 # KB Migration Plan — Dual-Scholastic Epistemic Structure
 
 **Status:** DRAFT for review — not started
+**Superseded:** this plan now lives in `C:\ChatHRE-KB\KB_EURO_ISLAMIC_MIGRATION_PLAN.md` (revision 4); this copy is historical.
 **Revision:** 3 — 2026-10-22. Full audit pass before implementation; 21 defects
 fixed and listed in §13. Revision 2 reconciled this plan with the two registry
 documents `1a. Knowledge Base Table Structure.docx` and `1b. Vault Registry
